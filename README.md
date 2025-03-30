@@ -65,8 +65,9 @@ For Raspberry Pi deployment:
 - Combines YOLO object detection with background subtraction
 - Optimized for real-time performance on Raspberry Pi 4
 
-
+## Image
+This image shows a Raspberry Pi 4 mounted in a case. The setup is intended to be connected to a CCTV camera installed on a 3-meter pole, where it will perform object detection tasks.
 ![image1](https://github.com/user-attachments/assets/c3eaf4b1-5cb7-4c17-bbbe-d4cc072f30eb)
+![image2](https://github.com/user-attachments/assets/4c28e0a7-33c6-44c0-8332-ec6d14e5aeea)
 
-![image](https://github.com/user-attachments/assets/acab257d-a1a0-4e02-b895-ce2a77bfa5bc)
 

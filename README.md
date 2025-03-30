@@ -64,3 +64,7 @@ For Raspberry Pi deployment:
 - Achieves 80% improvement over traditional motion detection methods
 - Combines YOLO object detection with background subtraction
 - Optimized for real-time performance on Raspberry Pi 4
+
+![image](https://github.com/user-attachments/assets/dbf556fc-115a-4c0a-8741-be194529a0bc)
+![image](https://github.com/user-attachments/assets/acab257d-a1a0-4e02-b895-ce2a77bfa5bc)
+

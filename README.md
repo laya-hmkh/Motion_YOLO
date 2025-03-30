@@ -11,6 +11,8 @@ This project implements a sophisticated computer vision system that:
 - Publishes detection alerts via MQTT for IoT integration
 - Optimized for deployment on Raspberry Pi 4
 
+The overall flowchart of the model is same as below:
+
 <p align="center" width="100%">
     <img src="https://github.com/user-attachments/assets/4df7d124-a2da-40a0-ae3a-d0a97e238dba" width="350" height="500">
 </p>

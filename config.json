@@ -1,0 +1,13 @@
+{
+	"minimum_area": 2500,
+	"resize_height": 225,
+	"resize_width": 400,
+	"confidence_interval": 0.2,
+	"gaussian_blur_amount": 21,
+	"frame_rate": 50,
+	"capture_camera": "webcam",
+	"camera_ip": "rtsp://admin:admin1234@192.168.0.33:554/cam/realmonitor?channel=1&subtype=0",
+	"background_model": "mog2",
+	"record_length": 200,
+	"redemption_length": 100
+}

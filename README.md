@@ -68,7 +68,6 @@ For Raspberry Pi deployment:
 ## Image
 This image shows a Raspberry Pi 4 mounted in a case. The setup is intended to be connected to a CCTV camera installed on a 3-meter pole, where it will perform object detection tasks.
 <div style="text-align: center;">
-  <hr style="width: 50%; margin: 0 auto;">
   <img src="https://github.com/user-attachments/assets/c3eaf4b1-5cb7-4c17-bbbe-d4cc072f30eb" width="350" height="250">
   <img src="https://github.com/user-attachments/assets/4c28e0a7-33c6-44c0-8332-ec6d14e5aeea" width="200" height="350">
 </div>
